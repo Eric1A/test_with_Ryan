@@ -2,5 +2,6 @@ this is my second file
 with stuff
 ADDED LINE with EXTRA STUFF FOR branch2 ONLY
 
-Added by Eric1A on branch2 2020-08-20 01:04 AM EST   222222222
+Added by Eric1A on branch2 2020-08-20 01:04 AM EST   
+999999999
 
